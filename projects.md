@@ -1,7 +1,5 @@
 ---
 layout: project
-title: Projects
+title: Devices
 permalink: /projects/
 ---
-
-Few of my projects.
