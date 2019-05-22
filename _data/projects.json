@@ -2,14 +2,14 @@
 	{
 		"name": "AOSiP DerpFest For Redmi Note 4 (mido)",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "https://sourceforge.net/projects/rfdforce/files/mido/derpfest/",
 		"date": "2019",
 		"tags": ["AOSIP","mido"]
 	},
 	{
 		"name": "Pie4Ferrari",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "https://sourceforge.net/projects/rfdforce/files/ferrari/",
 		"date": "May 2014",
 		"tags": ["Android","PHP"]
 	}
