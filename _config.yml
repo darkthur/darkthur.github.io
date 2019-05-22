@@ -1,9 +1,9 @@
-title: Darkthur
+title: Website
 description: Android Custom ROM Developer
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
+author: Alif Fathur
+logo: https://github.com/darkthur/darkthur.github.io/raw/master/static/img/avatar.png
 github: https://github.com/darkthur
-about: Freelance developer
+about: Android Custom ROM Developer
 
 baseurl: ""
 url: ""
