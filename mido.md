@@ -21,3 +21,5 @@ permalink: /mido/
 [Lastest Build](https://sourceforge.net/projects/rfdforce/files/mido/bootleg/BootleggersROM-Pie4mido.4.1-Stable-Unshishufied-20190526-104734.zip/download)
 
 [Older Build](https://sourceforge.net/projects/rfdforce/files/mido/bootleg/)
+
+[XDA Thread](https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-bootleggersrom-4-1-unshishufied-t3934288/post79612144#post79612144)
